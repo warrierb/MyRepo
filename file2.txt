@@ -1,1 +1,2 @@
 bar
+This is another change from developer 1

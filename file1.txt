@@ -1,3 +1,4 @@
 foo
 Test
 hello
+This is a change from developer 1
